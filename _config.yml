@@ -4,13 +4,6 @@ tagline: Portfolio
 description: >-
   Hi! My name is Sinai and I`m a physics teacher turned data analyst
   
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  
   # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
