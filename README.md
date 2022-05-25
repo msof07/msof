@@ -1,18 +1,15 @@
-## In Progress
+## Laboratoria Projects
 
 
-### Markdown
+## Local Businesses
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 This is codeeee
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+## Predictive Models
 
 AAAAAA
 
-### Support or Contact
+## Backtesting Projects
