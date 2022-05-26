@@ -10,7 +10,7 @@ I delivered a complete dabase with the three inventories synchronized, I matched
 
 > Some parts have been censored as well as the dashboard of the actual deliverable due to confidentiality.
 
-[![Report](https://us.123rf.com/450wm/teploleta/teploleta1802/teploleta180200017/94982571-sketch-illustration-of-a-man-hands-are-working-on-a-laptop-computer-top-view-.jpg?ver=6)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://us.123rf.com/450wm/teploleta/teploleta1802/teploleta180200017/94982571-sketch-illustration-of-a-man-hands-are-working-on-a-laptop-computer-top-view-.jpg?ver=6)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Report](https://www.shareicon.net/data/256x256/2016/08/04/679525_500px_512x512.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://www.shareicon.net/data/256x256/2016/08/04/679525_500px_512x512.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ### Ramirez Pharmacy
 
