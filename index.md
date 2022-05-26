@@ -9,7 +9,7 @@ In this project I performed an analysis using spreadsheets from a dataset on dea
   - Organize and visualize data in spreadsheets 
   - Determine relevant indicators
 
-[![Deliverable](https://pbs.twimg.com/media/FS2NcwWXEAAFpRP?format=jpg&name=medium)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Deliverable](https://us.123rf.com/450wm/teploleta/teploleta1802/teploleta180200017/94982571-sketch-illustration-of-a-man-hands-are-working-on-a-laptop-computer-top-view-.jpg?ver=6)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 # Local Businesses
 
