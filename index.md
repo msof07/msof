@@ -1,4 +1,4 @@
-Sinai Olivares
+Sinai O.
 
 ## Local Businesses Projects
 
