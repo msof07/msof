@@ -1,4 +1,4 @@
-Sinai O.
+ 
 
 ## Local Businesses Projects
 
