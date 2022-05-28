@@ -24,7 +24,7 @@ I'm currently working with a Pharmacy that is interested in some specific metric
 
 ### MLB Predictive Model
 
-This Machine Learning project is a toy model
+This Machine Learning program is a practice project to put into practice the stages needed to deploy an actual model. The goal is to predict which team would win when given two teams as inputs. This is long-term project starting from the heuristics as a first approximation and addind granularity on the way.
 
 [![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://colab.research.google.com/drive/1q3MHa6aR42RO2Oi57NQQaj4PcJbPJbSo?usp=sharing) [![Report](https://cvws.icloud-content.com/B/AXg5-OXV6N5MypLgYsVNKNuitn0WAUp2Fdn_uZ5PbN_FuUC2s4efXc_u/IMG_5646.PNG?o=AlWDX1XYBQzIOEOKvSMwhDCWPPl_TKN32HyDXJsTeg__&v=1&x=3&a=CAogLeL7SXAwj13_cWwW7J0hEDA76RgFbFiGMZ5aGruAAQsSbRDO-IDmkDAYztXc55AwIgEAUgSitn0WWgSfXc_uaiYYt_QPa6YdwtdIZJKv0fDYoS0s2gqrbPmldktBCFB-7U4TihmUCXImOx5IH9Kyi8BSKl0R9P6DmGGfCGbUWpJj23tNZl2wGI7tPay0ixs&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=8-oJGKVuBJOzoU2YjGwsyw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=7mUqGhbW8v04c60IX6JsWl6GLdM&cd=i)](https://docs.google.com/document/d/1QmgKjw-mA4BUdXz2Nuglfu4niZjQxBFn05iG_XWR9-k/edit?usp=sharing)
 
@@ -40,7 +40,7 @@ This Machine Learning project is a toy model
 
 ## Laboratoria Projects
 
-[Laboratoria](https://www.laboratoria.la/en)
+[Laboratoria](https://www.laboratoria.la/en) is a Latin American organization aimed at empowering women in the tech sector and preparing them to work as Developers and UX Designers for the last 10 years. Along with IBM I was awarded an scholarship to be part of the Data Analytics certification for which I completed the following project described below. The dynamic of this certification offered me incredibly rewarding skills such as give appropiate feedback and take the lead in diverse groups.
 
 ### Hotel bookings cancelation analysis ***
 
@@ -50,7 +50,7 @@ I analyzed the bookings cancelations of a hotel chain that owns two types of hot
   - Organize and manipulate data in BigQuery.
   - Visualize results in Power BI.
   - Take decisions based on data.
-  - Check business hypothesis.
+  - Verify business hypothesis.
 
 [![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://cvws.icloud-content.com/B/ARZWI-dpC0Pv5vGG9p53-kohBipHAfKaIQnF5_OOcZE27_Zp2BDpUmEQ/IMG_5648.PNG?o=Amzydar0V098kybAETSgOh7TUE63c6eqVG46HTCfeNjY&v=1&x=3&a=CAogc1INHIQi1wWm8s3Y61CYUQdajXrE-jBWx6So3sd7ujASbRDW-IDmkDAY1tXc55AwIgEAUgQhBipHWgTpUmEQaiZ_cwR-Wjlv1B0nrf5e2yo92Z2zDlO2_FjvAEPCAKLoRdSeYHkL4nImwXorOO0N6FXUC0XzY1PozCoA3RzoKFe50sV1zhtq--_Mim7ACis&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=QRk2vViYQ_-CAFECbJLsLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=RrYW2iFZ6LPqnsFxFalMOW2yekY&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
