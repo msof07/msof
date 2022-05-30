@@ -10,7 +10,7 @@ I delivered a complete dabase with the three inventories synchronized, I matched
 
 > Some parts have been censored as well as the dashboard of the actual deliverable due to confidentiality.
 
-[![Report](https://cvws.icloud-content.com/B/AXg5-OXV6N5MypLgYsVNKNuitn0WAUp2Fdn_uZ5PbN_FuUC2s4efXc_u/IMG_5646.PNG?o=AlWDX1XYBQzIOEOKvSMwhDCWPPl_TKN32HyDXJsTeg__&v=1&x=3&a=CAogLeL7SXAwj13_cWwW7J0hEDA76RgFbFiGMZ5aGruAAQsSbRDO-IDmkDAYztXc55AwIgEAUgSitn0WWgSfXc_uaiYYt_QPa6YdwtdIZJKv0fDYoS0s2gqrbPmldktBCFB-7U4TihmUCXImOx5IH9Kyi8BSKl0R9P6DmGGfCGbUWpJj23tNZl2wGI7tPay0ixs&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=8-oJGKVuBJOzoU2YjGwsyw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=7mUqGhbW8v04c60IX6JsWl6GLdM&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://cvws.icloud-content.com/B/ARZWI-dpC0Pv5vGG9p53-kohBipHAfKaIQnF5_OOcZE27_Zp2BDpUmEQ/IMG_5648.PNG?o=Amzydar0V098kybAETSgOh7TUE63c6eqVG46HTCfeNjY&v=1&x=3&a=CAogc1INHIQi1wWm8s3Y61CYUQdajXrE-jBWx6So3sd7ujASbRDW-IDmkDAY1tXc55AwIgEAUgQhBipHWgTpUmEQaiZ_cwR-Wjlv1B0nrf5e2yo92Z2zDlO2_FjvAEPCAKLoRdSeYHkL4nImwXorOO0N6FXUC0XzY1PozCoA3RzoKFe50sV1zhtq--_Mim7ACis&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=QRk2vViYQ_-CAFECbJLsLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=RrYW2iFZ6LPqnsFxFalMOW2yekY&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ### Ramirez Pharmacy ***
 
@@ -18,7 +18,7 @@ I'm currently working with a Pharmacy that is interested in some specific metric
 
 > Some parts have been censored as well as the dashboard of the actual deliverable due to confidentiality.
 
-[![Report](https://cvws.icloud-content.com/B/AXg5-OXV6N5MypLgYsVNKNuitn0WAUp2Fdn_uZ5PbN_FuUC2s4efXc_u/IMG_5646.PNG?o=AlWDX1XYBQzIOEOKvSMwhDCWPPl_TKN32HyDXJsTeg__&v=1&x=3&a=CAogLeL7SXAwj13_cWwW7J0hEDA76RgFbFiGMZ5aGruAAQsSbRDO-IDmkDAYztXc55AwIgEAUgSitn0WWgSfXc_uaiYYt_QPa6YdwtdIZJKv0fDYoS0s2gqrbPmldktBCFB-7U4TihmUCXImOx5IH9Kyi8BSKl0R9P6DmGGfCGbUWpJj23tNZl2wGI7tPay0ixs&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=8-oJGKVuBJOzoU2YjGwsyw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=7mUqGhbW8v04c60IX6JsWl6GLdM&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://cvws.icloud-content.com/B/ARZWI-dpC0Pv5vGG9p53-kohBipHAfKaIQnF5_OOcZE27_Zp2BDpUmEQ/IMG_5648.PNG?o=Amzydar0V098kybAETSgOh7TUE63c6eqVG46HTCfeNjY&v=1&x=3&a=CAogc1INHIQi1wWm8s3Y61CYUQdajXrE-jBWx6So3sd7ujASbRDW-IDmkDAY1tXc55AwIgEAUgQhBipHWgTpUmEQaiZ_cwR-Wjlv1B0nrf5e2yo92Z2zDlO2_FjvAEPCAKLoRdSeYHkL4nImwXorOO0N6FXUC0XzY1PozCoA3RzoKFe50sV1zhtq--_Mim7ACis&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=QRk2vViYQ_-CAFECbJLsLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=RrYW2iFZ6LPqnsFxFalMOW2yekY&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ## Predictive Models
 
@@ -26,17 +26,17 @@ I'm currently working with a Pharmacy that is interested in some specific metric
 
 This Machine Learning program is a practice project to put into practice the stages needed to deploy an actual model. The goal is to predict which team would win when given two teams as inputs. This is a long-term project starting from the heuristics as a first approximation and add granularity on the way.
 
-[![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://colab.research.google.com/drive/1q3MHa6aR42RO2Oi57NQQaj4PcJbPJbSo?usp=sharing) [![Report](https://cvws.icloud-content.com/B/AXg5-OXV6N5MypLgYsVNKNuitn0WAUp2Fdn_uZ5PbN_FuUC2s4efXc_u/IMG_5646.PNG?o=AlWDX1XYBQzIOEOKvSMwhDCWPPl_TKN32HyDXJsTeg__&v=1&x=3&a=CAogLeL7SXAwj13_cWwW7J0hEDA76RgFbFiGMZ5aGruAAQsSbRDO-IDmkDAYztXc55AwIgEAUgSitn0WWgSfXc_uaiYYt_QPa6YdwtdIZJKv0fDYoS0s2gqrbPmldktBCFB-7U4TihmUCXImOx5IH9Kyi8BSKl0R9P6DmGGfCGbUWpJj23tNZl2wGI7tPay0ixs&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=8-oJGKVuBJOzoU2YjGwsyw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=7mUqGhbW8v04c60IX6JsWl6GLdM&cd=i)](https://docs.google.com/document/d/1QmgKjw-mA4BUdXz2Nuglfu4niZjQxBFn05iG_XWR9-k/edit?usp=sharing)
+[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://colab.research.google.com/drive/1q3MHa6aR42RO2Oi57NQQaj4PcJbPJbSo?usp=sharing) [![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/document/d/1QmgKjw-mA4BUdXz2Nuglfu4niZjQxBFn05iG_XWR9-k/edit?usp=sharing)
 
 ## Backtesting Projects
 
 ### Momentum Strategy ***
 
-[![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ### Trend Effect Strategy ***
 
-[![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ## Laboratoria Projects
 
@@ -52,7 +52,7 @@ I analyzed the bookings cancelations of a hotel chain that owns two types of hot
   - Take decisions based on data.
   - Verify business hypothesis.
 
-[![Code](https://cvws.icloud-content.com/B/AZnFkYb3ps6-Vp9BVHdUS93y7okHAeIDCSUdFJ9W2DsTlJuAmxHtIFmX/IMG_5650.PNG?o=AtrsHJooBsIX-K5hAoMNw8kbenDAvM0LpCWcrNhijOx4&v=1&x=3&a=CAogeKxOTw-XKNi2b3vY0CgCu6Rn_8FAWtXQiXobGu-MMecSbRDd-IDmkDAY3dXc55AwIgEAUgTy7okHWgTtIFmXaia33w3PoZxF4fbmsN_2K4Dy1AeiHD3wBEHBw5VplqCrnSsV59AsRHImG3BltX6p1fUCbwkifrbIBnGq9Phv19qgseMsyrphHl5M9XDKV9c&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=JDHLOgVVjcP_aT4KdQMjug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=DPlidYqvO0jdGQynU_7UyETdx30&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://cvws.icloud-content.com/B/ARZWI-dpC0Pv5vGG9p53-kohBipHAfKaIQnF5_OOcZE27_Zp2BDpUmEQ/IMG_5648.PNG?o=Amzydar0V098kybAETSgOh7TUE63c6eqVG46HTCfeNjY&v=1&x=3&a=CAogc1INHIQi1wWm8s3Y61CYUQdajXrE-jBWx6So3sd7ujASbRDW-IDmkDAY1tXc55AwIgEAUgQhBipHWgTpUmEQaiZ_cwR-Wjlv1B0nrf5e2yo92Z2zDlO2_FjvAEPCAKLoRdSeYHkL4nImwXorOO0N6FXUC0XzY1PozCoA3RzoKFe50sV1zhtq--_Mim7ACis&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=QRk2vViYQ_-CAFECbJLsLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=RrYW2iFZ6LPqnsFxFalMOW2yekY&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
 
 ### Client segmentation for e-commerce
 
@@ -62,7 +62,7 @@ The main premise of this project is to discover the client engagement of an onli
   - Pre-process data in spreadsheets.
   - Perform a cohort analysis and client segmentation through a RFM methodology.
 
-[![Spreadsheet](https://cvws.icloud-content.com/B/AecCjHFoKpyHWycMZwEOb11X4IYlAU_Odo82gt6BLdczThFBl92Agyzz/IMG_5652.PNG?o=AmPnqjInJDcSLVI-JkZuzJ7yO5v6Yj0G1tmz3rHNBTAi&v=1&x=3&a=CAogjye6LJr56GC2VTAla6ChKNZok8O6w8RDTf-zkAwz-yMSbRDl-IDmkDAY5dXc55AwIgEAUgRX4IYlWgSAgyzzaib5se9svB49TeC8neq_E7TBnzm-vSbnVZaP-E5wH6xg0byxSt1S9nIm12anoKTU5pqPIbEic9h_6LvhIAd91mTIGnxX0H-culbeFt3bykM&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=B0tFC2vbb2z8X_tYGyCQew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=dUhYdDsFEhjWNjUiMvkhSJ6xr40&cd=i)](https://docs.google.com/spreadsheets/d/1Fnc8J67xPdacnAQesGHWQTGlq-DqtezNb9ANnGFwK6M/edit?usp=sharing) [![Dashboard](https://cvws.icloud-content.com/B/ARZWI-dpC0Pv5vGG9p53-kohBipHAfKaIQnF5_OOcZE27_Zp2BDpUmEQ/IMG_5648.PNG?o=Amzydar0V098kybAETSgOh7TUE63c6eqVG46HTCfeNjY&v=1&x=3&a=CAogc1INHIQi1wWm8s3Y61CYUQdajXrE-jBWx6So3sd7ujASbRDW-IDmkDAY1tXc55AwIgEAUgQhBipHWgTpUmEQaiZ_cwR-Wjlv1B0nrf5e2yo92Z2zDlO2_FjvAEPCAKLoRdSeYHkL4nImwXorOO0N6FXUC0XzY1PozCoA3RzoKFe50sV1zhtq--_Mim7ACis&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=QRk2vViYQ_-CAFECbJLsLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=RrYW2iFZ6LPqnsFxFalMOW2yekY&cd=i)](https://datastudio.google.com/reporting/f5e05ee7-ddb1-49b4-9020-27d00dbf3862)
+[![Spreadsheet](https://i.ibb.co/tZ80yS2/IMG-5652.png)](https://docs.google.com/spreadsheets/d/1Fnc8J67xPdacnAQesGHWQTGlq-DqtezNb9ANnGFwK6M/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://datastudio.google.com/reporting/f5e05ee7-ddb1-49b4-9020-27d00dbf3862)
 
 ### Startup client retention analysis
 
@@ -73,7 +73,7 @@ For this project I performed an analysis based on a set of data about customers 
   - Perfom a cohort analysis.
   - Conclude on the Market Fit of the product.
 
-[![Spreadsheet](https://cvws.icloud-content.com/B/AecCjHFoKpyHWycMZwEOb11X4IYlAU_Odo82gt6BLdczThFBl92Agyzz/IMG_5652.PNG?o=AmPnqjInJDcSLVI-JkZuzJ7yO5v6Yj0G1tmz3rHNBTAi&v=1&x=3&a=CAogjye6LJr56GC2VTAla6ChKNZok8O6w8RDTf-zkAwz-yMSbRDl-IDmkDAY5dXc55AwIgEAUgRX4IYlWgSAgyzzaib5se9svB49TeC8neq_E7TBnzm-vSbnVZaP-E5wH6xg0byxSt1S9nIm12anoKTU5pqPIbEic9h_6LvhIAd91mTIGnxX0H-culbeFt3bykM&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=B0tFC2vbb2z8X_tYGyCQew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=dUhYdDsFEhjWNjUiMvkhSJ6xr40&cd=i)](https://drive.google.com/drive/folders/1T_Ge-pKHu73sNytZMQMyHKUAmKRqL2hB?usp=sharing)
+[![Spreadsheet](https://i.ibb.co/tZ80yS2/IMG-5652.png)](https://drive.google.com/drive/folders/1T_Ge-pKHu73sNytZMQMyHKUAmKRqL2hB?usp=sharing)
 
 ### COVID-19 excess mortality analysis
 
@@ -84,4 +84,4 @@ In this project I performed an analysis using spreadsheets from a dataset on dea
   - Organize and visualize data in spreadsheets.
   - Determine relevant indicators.
 
-[![Spreadsheet](https://cvws.icloud-content.com/B/AecCjHFoKpyHWycMZwEOb11X4IYlAU_Odo82gt6BLdczThFBl92Agyzz/IMG_5652.PNG?o=AmPnqjInJDcSLVI-JkZuzJ7yO5v6Yj0G1tmz3rHNBTAi&v=1&x=3&a=CAogjye6LJr56GC2VTAla6ChKNZok8O6w8RDTf-zkAwz-yMSbRDl-IDmkDAY5dXc55AwIgEAUgRX4IYlWgSAgyzzaib5se9svB49TeC8neq_E7TBnzm-vSbnVZaP-E5wH6xg0byxSt1S9nIm12anoKTU5pqPIbEic9h_6LvhIAd91mTIGnxX0H-culbeFt3bykM&e=1653779933&fl=&r=1807db34-0e43-4164-810c-1ec0057374ee-1&k=B0tFC2vbb2z8X_tYGyCQew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=dUhYdDsFEhjWNjUiMvkhSJ6xr40&cd=i)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Spreadsheet](https://i.ibb.co/tZ80yS2/IMG-5652.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
