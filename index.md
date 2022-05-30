@@ -40,7 +40,7 @@ This Machine Learning program is a practice project to put into practice the sta
 
 ## Laboratoria Projects
 
-[Laboratoria](https://www.laboratoria.la/en) is a Latin American organization aimed at empowering women in the tech sector and preparing them to work as Developers and UX Designers for the last 10 years. Along with IBM I was awarded an scholarship to be part of the Data Analytics certification for which I completed the following project described below. The dynamic of this certification offered me incredibly rewarding abilities aside from the technical skills such as give appropiate feedback to team members and take the lead in a diverse group.
+[Laboratoria](https://www.laboratoria.la/en) is a Latin American organization aimed at empowering women in the tech sector and preparing them to work as Developers and UX Designers for the last 10 years. Along with IBM I was awarded an scholarship to be part of the Data Analytics certification for which I completed the following projects described below. The dynamic of this certification offered me incredibly rewarding abilities aside from the technical skills such as give appropiate feedback to team members and take the lead in a diverse group.
 
 ### Hotel bookings cancelation analysis ***
 
