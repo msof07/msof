@@ -26,6 +26,8 @@ I'm currently working with a Pharmacy that is interested in some specific metric
 
 This Machine Learning program is a practice project to put into practice the stages needed to deploy an actual model. The goal is to predict which team would win when given two teams as inputs. This is a long-term project starting from the heuristics as a first approximation and add granularity on the way.
 
+> Other toy models I've tried: [Google Colab Folder](https://drive.google.com/drive/folders/1y3qT1_8lJH5UQegwCdfMF36Mj2D3973q)
+
 [![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://colab.research.google.com/drive/1q3MHa6aR42RO2Oi57NQQaj4PcJbPJbSo?usp=sharing) [![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/document/d/1QmgKjw-mA4BUdXz2Nuglfu4niZjQxBFn05iG_XWR9-k/edit?usp=sharing)
 
 ## Backtesting Projects
