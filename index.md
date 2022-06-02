@@ -10,13 +10,14 @@ I delivered a complete dabase with the three inventories synchronized, I matched
 
 > Some parts of the actual deliverable has been censored due to confidentiality.
 
-[![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+<!-- [![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) -->
 
-### Ramirez Pharmacy ***
+### DMP Distribution ***
 
-I'm currently working with a Pharmacy that is interested in some specific metrics:
+[DMP Distribuidora](https://www.facebook.com/Distribuidora-DMP-106878261632014/) is a local company in Xalapa, Veracruz, Mexico that supplies various daily-use producs, medicines and wholesale in general, this company also has an affiliated Pharmacy in the city. The client is interested in year-over-year growth and specifically three KPIs are of interest: Net Sales, Gross Profit Margin and Average Revenue per Customer.
+I'm currently working in providing a report and dashboard for the owner of the business in the next following days after I analized the data during the past weeks.
 
-> Currently finishing this project.
+> Status: currently finishing this project.
 
 <!-- [![Report](https://i.ibb.co/4Mhcp9g/IMG-5646.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)-->
 
