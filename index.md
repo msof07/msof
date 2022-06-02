@@ -44,7 +44,7 @@ I analyzed the bookings cancelations of a hotel chain that owns two types of hot
   - Take decisions based on data.
   - Verify business hypothesis.
 
-[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://i.ibb.co/FJrMKm6/IMG-5844.jpg) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docs.google.com/spreadsheets/d/1ZbB07an2mklNE_1gVujuGXXZtEe_N16yXlmU3rGZLLk/edit?usp=sharing)
+[![Code](https://i.ibb.co/BTJmdKB/IMG-5650.png)](https://i.ibb.co/FJrMKm6/IMG-5844.jpg) [![Dashboard](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://public.tableau.com/views/CancelacionesHoteleras/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Client segmentation for e-commerce
 
