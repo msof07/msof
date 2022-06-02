@@ -65,7 +65,7 @@ For this project I performed an analysis based on a set of data about customers 
   - Perfom a cohort analysis.
   - Conclude on the Market Fit of the product.
 
-[![Spreadsheet](https://i.ibb.co/tZ80yS2/IMG-5652.png)](https://drive.google.com/drive/folders/1T_Ge-pKHu73sNytZMQMyHKUAmKRqL2hB?usp=sharing) [![Presentation](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://drive.google.com/file/d/1HEmyORCinhXA_CXbBvP9QP_UfDjoiZUP/view?usp=sharing)
+[![Spreadsheet](https://i.ibb.co/tZ80yS2/IMG-5652.png)](https://drive.google.com/drive/folders/1T_Ge-pKHu73sNytZMQMyHKUAmKRqL2hB?usp=sharing) [![Presentation](https://i.ibb.co/D7C7dSb/IMG-5648.png)](https://docdro.id/CEpi1ts)
 
 ### COVID-19 excess mortality analysis
 
